@@ -13,7 +13,6 @@ Skills: C++/C/HTML/CSS/Flutter
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Drishtisaini122&show_icons=true)
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Drishtisaini122)
 
 ![GitHub metrics](https://metrics.lecoq.io/Drishtisaini122)  
