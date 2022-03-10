@@ -51,7 +51,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Drishtisaini122)
 
-<a href="https://github.com/Drishtisaini122/github-readme-activity-graph"><img alt="Drishti Saini's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yDrishtisaini122&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Drishtisaini122/github-readme-activity-graph"><img alt="Drishti Saini's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Drishtisaini122&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
