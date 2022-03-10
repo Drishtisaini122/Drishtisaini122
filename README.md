@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning DSA and Flutter
 - 📫 How to reach me: drishtisaini122@gmail.com
-- - ⚡ Fun fact **I like to do new Things.**
+- ⚡ Fun fact **I like to do new Things.**
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
@@ -51,7 +51,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Drishtisaini122)
 
-![Profile views](https://gpvc.arturio.dev/Drishtisaini122)  
+
 
 <h3> <b>Connect with me:</b></h3>
 <p>
@@ -61,8 +61,14 @@
       height="30" width="60" /></a>
  
 </p>
+<a href="https://www.linkedin.com/in/drishti-saini-a19061205" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt=" Drishti Saini" height="30" width="60" /></a>
+
 
 <br>
+
+![Profile views](https://gpvc.arturio.dev/Drishtisaini122)  
 
 
 
