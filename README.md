@@ -1,9 +1,12 @@
+<a href="#"><img width="100%" height="auto" src="https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Artificial-Intelligence-5.jpg" height="400px"/></a>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Drishti Saini</h1>
 
 <h3>About me</h3>
 
 - 🌱 I’m currently learning DSA and Flutter
 - 📫 How to reach me: drishtisaini122@gmail.com
+- - ⚡ Fun fact **I like to do new Things.**
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
@@ -34,11 +37,17 @@
 
 
 
+## 📊 My Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Drishtisaini122&show_icons=true)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Drishtisaini122)
+  <br/>
+    <a href="https://github.com/Drishtisaini122/github-readme-stats"><img alt="Drishti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Drishtisaini122&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://TDrishtisaini122/github-readme-stats"><img alt="Drishti's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drishtisaini122&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-![GitHub metrics](https://metrics.lecoq.io/Drishtisaini122)  
+
+<br/>
+<br/>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Drishtisaini122)
 
