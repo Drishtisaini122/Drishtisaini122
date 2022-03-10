@@ -60,10 +60,11 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       height="30" width="60" /></a>
  
-</p>
+
 <a href="https://www.linkedin.com/in/drishti-saini-a19061205" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt=" Drishti Saini" height="30" width="60" /></a>
+    </p>
 
 
 <br>
