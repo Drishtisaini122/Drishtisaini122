@@ -4,7 +4,7 @@
 
 <h3>About me</h3>
 
-- 🌱 I’m currently learning DSA and Flutter
+- 🌱 I’m currently learning DSA and Flutter and Python
 - 📫 How to reach me: drishtisaini122@gmail.com
 - ⚡ Fun fact **I like to do new Things.**
 
